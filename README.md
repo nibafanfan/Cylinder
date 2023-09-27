@@ -33,6 +33,10 @@
 
 ## Data Preparation
 
+### Rellis Dataset
+download from here
+https://github.com/unmannedlab/RELLIS-3D
+
 ### SemanticKITTI
 ```
 ./
